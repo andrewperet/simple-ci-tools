@@ -1,0 +1,19 @@
+{
+  "name": "simple-ci-tools",
+  "version": "1.0.0",
+  "description": "Simple tools used in ci.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewperet/simple-ci-tools.git"
+  },
+  "author": "Andrew Peret",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewperet/simple-ci-tools/issues"
+  },
+  "homepage": "https://github.com/andrewperet/simple-ci-tools#readme"
+}
