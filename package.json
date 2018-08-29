@@ -1,6 +1,9 @@
 {
   "name": "simple-ci-tools",
   "version": "1.0.0",
+  "bin": {
+    "simple-ci-tools": "./index.js"
+  },
   "description": "Simple tools used in ci.",
   "main": "index.js",
   "scripts": {
@@ -15,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/andrewperet/simple-ci-tools/issues"
   },
-  "homepage": "https://github.com/andrewperet/simple-ci-tools#readme"
+  "homepage": "https://github.com/andrewperet/simple-ci-tools#readme",
+  "dependencies": {
+    "fs-extra": "^7.0.0",
+    "yargs": "^12.0.1"
+  }
 }
